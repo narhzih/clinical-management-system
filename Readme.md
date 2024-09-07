@@ -26,7 +26,7 @@ This project is a robust API for a Clinical Appointment Management System built 
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/clinical-appointment-api.git
+    git clone https://github.com/narhzih/clinical-management-system.git
     cd clinical-appointment-api
     ```
 
